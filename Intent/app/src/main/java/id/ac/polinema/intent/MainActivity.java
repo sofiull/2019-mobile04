@@ -38,4 +38,11 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, BundleActivity.class);
         startActivity(intent);
     }
+
+    public void handleParcelable(View view) {
+        // Todo: Mengarahkan ke tampilan activity_parcelable
+
+        Intent intent = new Intent(this, ParcelableActivity.class);
+        startActivity(intent);
+    }
 }
