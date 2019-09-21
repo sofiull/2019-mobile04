@@ -16,8 +16,8 @@ Merupakan cara untuk mengirim data yang dijadikan satu (bundle) untuk activity y
 ## Parcelable
 
 ### Note
-**Project Master :** @dhanifudin
+**Project Master :** [@dhanifudin](https://github.com/dhanifudin)
 
-Animation Created using **Peek** version 1.3.1
+Animation Created using [**Peek**](https://github.com/phw/peek) version 1.3.1
 
 
