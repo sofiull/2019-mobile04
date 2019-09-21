@@ -32,4 +32,10 @@ public class MainActivity extends AppCompatActivity {
         finish();
     }
 
+    public void handleBundle(View view) {
+        // Todo: Mengarahkan ke tampilan activity_implicit_intent
+
+        Intent intent = new Intent(this, BundleActivity.class);
+        startActivity(intent);
+    }
 }
