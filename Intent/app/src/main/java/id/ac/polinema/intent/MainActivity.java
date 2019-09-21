@@ -21,7 +21,15 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void handleImplicitIntent(View view) {
+        // Todo: Mengarahkan ke tampilan activity_implicit_intent
+
+        Intent intent = new Intent(this,ImplicitIntentActivity.class);
+        startActivity(intent);
+    }
+
     public void handleExit(View view) {
         finish();
     }
+
 }
