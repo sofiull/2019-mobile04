@@ -20,8 +20,8 @@ public class ProfileBundleActivity extends AppCompatActivity {
         usernameText = findViewById(R.id.text_username);
         nameText = findViewById(R.id.text_name);
         AgeText = findViewById(R.id.text_age);
-        Bundle extras = getIntent().getExtras();
 
+        Bundle extras = getIntent().getExtras();
         if (extras != null) {
             // TODO: display value here (Menangkap data berdasarkan Key. exp = USERNAME_KEY)
             //  Textview Error ketika melakukan setText dengan tipe integer :(
