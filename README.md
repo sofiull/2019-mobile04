@@ -14,7 +14,9 @@
 
 ![screen](https://github.com/sofiull/MyAsset/blob/master/2019-mobile04/Bundle.gif)
 ## Parcelable
+>Merupakan cara untuk mengirim sebuah object untuk activity yang dituju.
 
+![screen](https://github.com/sofiull/MyAsset/blob/master/2019-mobile04/Parcelable.gif)
 ## Note
 >**Project Master :** [@dhanifudin](https://github.com/dhanifudin)
 
